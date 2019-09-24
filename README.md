@@ -3,7 +3,7 @@
 
 ***Dáttilo et al. in review in ECOLOGY - November 2019***
 
-Our aims in this data paper are to: (i) compile all the information available regarding ants across the Mexican territory and (ii) identify major patterns in the gathered dataset and geographic gaps to direct future sampling efforts. To the best of our knowledge this is the most complete data set available to date in the literature for the country. We hope that this compilation will encourage researchers to explore different aspects of population and community research of ants at different spatial scales, and to aid in the establishment of conservation policies and actions.
+Our aims in this data paper are to: (i) compile all the information available regarding ants across the Mexican territory and (ii) identify major patterns in the gathered dataset and geographic gaps to direct future sampling efforts. To the best of our knowledge this is the most complete data set available to date in the literature for the country. After an exhaustive filtering and update of information and synonyms, we compiled a total of 21,731 records for 887 ant species distributed throughout Mexico from 1894 to 2018. We hope that this compilation will encourage researchers to explore different aspects of population and community research of ants at different spatial scales, and to aid in the establishment of conservation policies and actions.
 
 ***Important: All data will be available in ECOLOGY repository. This mirror GITHUB repository will maintain updated versions of dataset, as well as MANY EXTRA INFORMATION generated using MEXICAN ANTS dataset.***
 
