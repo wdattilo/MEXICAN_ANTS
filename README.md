@@ -1,5 +1,5 @@
-# MEXICAN_ANTS
-***MEXICAN ANTS: incidence and abundance along the Nearctic-Neotropical interface***
+# MEXICO_ANTS
+***MEXICO ANTS: incidence and abundance along the Nearctic-Neotropical interface***
 
 ***Dáttilo et al. in review in ECOLOGY - October 2019***
 
