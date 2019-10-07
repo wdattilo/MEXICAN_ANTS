@@ -9,7 +9,7 @@ Our aims in this data paper are to: (i) compile all the information available re
 
 
 ![alt text](https://github.com/wdattilo/MEXICAN_ANTS/blob/master/MEXICO_ANTS.png)
-**Figure 1.** Distribution of the 21,731 records in the MEXICAN ANTS data set throughout the Mexican territory compiled from 1894 to 2018. Limits of regionalization of Mexican biogeographic regions follow Morrone et al. (2017). Data that appear to be outside the continent represent records made in Mexican insular environments.
+**Figure 1.** Distribution of the 21,731 records in the MEXICO ANTS data set throughout the Mexican territory compiled from 1894 to 2018. Limits of regionalization of Mexican biogeographic regions follow Morrone et al. (2017). Data that appear to be outside the continent represent records made in Mexican insular environments.
 
 
 ***Originators:***
