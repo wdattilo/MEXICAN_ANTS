@@ -14,7 +14,7 @@ Our aims in this data paper are to: (i) compile all the information available re
 
 ***Originators:***
 
-i) **Wesley Dáttilo**, Red de Ecoetología, Instituto de Ecología A.C., Carretera Antigua a Coatepec 351, El Haya, CP 91073, Xalapa, Veracruz, Mexico. Email: wdattilo@hotmail.com ; wesley.dattilo@inecol.mx
+i) **Dr. Wesley Dáttilo**, Red de Ecoetología, Instituto de Ecología A.C., Carretera Antigua a Coatepec 351, El Haya, CP 91073, Xalapa, Veracruz, Mexico. Email: wdattilo@hotmail.com ; wesley.dattilo@inecol.mx
 
-ii) **Miguel Vásquez Bolaños**, Centro de Estudios en Zoología, Departamento de Botánica y Zoología, Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara, Km. 15.5 Carr. Nogales, Las Agujas, CP 45110, Zapopan, Jalisco, Mexico. Email: mmvb14145@hotmail.com 
+ii) **Dr. Miguel Vásquez Bolaños**, Centro de Estudios en Zoología, Departamento de Botánica y Zoología, Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara, Km. 15.5 Carr. Nogales, Las Agujas, CP 45110, Zapopan, Jalisco, Mexico. Email: mmvb14145@hotmail.com 
 
